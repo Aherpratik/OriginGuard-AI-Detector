@@ -1,0 +1,17 @@
+# OS / IDE
+.DS_Store
+.idea/ .vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.log
+
+# Virtual envs
+venv/ .venv/ env/ .env/ pr_project/
+
+# Data / weights / outputs
+*.ckpt *.pt *.pth *.h5 *.onnx *.safetensors
+outputs/ logs/ checkpoints/ data/ datasets/ models/
