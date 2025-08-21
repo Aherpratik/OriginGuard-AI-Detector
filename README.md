@@ -60,11 +60,12 @@ Text model: Hello-SimpleAI/ChatGPT Detector RoBERTa (credit to the original auth
 Thanks to open-source contributors in the Python/Streamlit ecosystem.
 If you use OriginGuard in academic work, please cite this repo and the upstream model authors.
 
-Below are some images from my project and in the end  there is video for complete demonstration of project
+Below are some images from my project and in the end  there is video link for complete demonstration of project
 
 <img width="2544" height="1265" alt="image" src="https://github.com/user-attachments/assets/556c6630-ff05-429f-8930-d3959d0357bc" />
 <img width="2544" height="1265" alt="image" src="https://github.com/user-attachments/assets/88624507-ffeb-4b73-a376-c3291d3b8be3" />
 <img width="2544" height="1265" alt="image" src="https://github.com/user-attachments/assets/27bd9683-649a-461b-b73b-ebd967ecaf13" />
 <img width="2544" height="1265" alt="image" src="https://github.com/user-attachments/assets/c96a1d0f-f2b4-4e4d-9afc-e14144288373" />
 
-
+Here is link for complete video demanstration of project
+https://buffalo.app.box.com/file/1861541041564?s=ti7u6ambwfbdwy1t6qb07fnpzayzesfi
